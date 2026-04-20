@@ -47,6 +47,27 @@
 
 ---
 
+### 📊 Mis Estadísticas de GitHub & Contribuciones
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=franco-lozp1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=franco-lozp1&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franco-lozp1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franco-lozp1/franco-lozp1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franco-lozp1/franco-lozp1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/franco-lozp1/franco-lozp1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ### 📂 Proyectos Destacados
 
 * **SaaS Motor de Flujos (Core Crediticio):** Migración de sistema monolítico a arquitectura web genérica y contenerizada (FastAPI/React).
