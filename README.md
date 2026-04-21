@@ -2,6 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Franco+Lopez!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=1877F2&lines=Hi+There!+👋;+I'm+Franco+Lopez!;" />
 </h1>
 
 <h3 align="center">A passionate software engineer from Guatemala 🇬🇹</h3>
